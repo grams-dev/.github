@@ -8,14 +8,6 @@ Grams is a revolutionary, open-source, decentralized platform built on blockchai
 
 At its core, Grams is about empowering YOU. We've developed a dynamic, user-centric ecosystem that puts you in full control of your digital assets. With the power of blockchain technology and innovative solutions like Grams Name Service (GNS), Subject Oriented Programming, and a suite of streamlined development tools, we're redefining what's possible in the world of decentralized applications.
 
-### Key Features of Grams:
-
-* **GNS - Grams Name Service**: Turn complex addresses into human-friendly names. GNS allows users and developers to map any name to any address, with support for subdomains and ENS.
-
-* **dApps - Create Grams dApp**: With a simple command, `npx create-grams-dapp`, developers can scaffold a complete dApp based on Truffle, ready to be hosted on the Grams network.
-
-* **Subjects - Subject Oriented Programming**: Revolutionize the way you build smart contracts. With Subjects, you can design contracts that integrate with our subject universe, allowing them to be triggered based on their subscriptions.
-
 ## Join the Grams Ecosystem
 
 There are many ways to get involved with Grams, whether you're an experienced developer, a blockchain enthusiast, or someone who's just excited about the future of the decentralized web.
