@@ -1,6 +1,6 @@
 # Welcome to Grams - Your Gateway to Web3
 
-![Grams Logo](https://assets.grams.dev/logo/logo.png)
+![Grams Logo](https://assets.grams.dev/logo/logo150x148.png)
 
 Grams is a revolutionary, open-source, decentralized platform built on blockchain technology, poised to transform the way we engage with the digital world. We are at the forefront of the Web3 revolution, providing an accessible, secure, and efficient platform for digital transactions and decentralized application (dApp) development.
 
