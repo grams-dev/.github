@@ -1,4 +1,4 @@
-# Grams: Your Gateway to Web3
+# Grams: Humanizing Web3
 
 ![Grams Logo](https://assets.grams.dev/logo/logo150x148.png)
 
