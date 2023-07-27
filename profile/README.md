@@ -16,7 +16,7 @@ There are many ways to get involved with Grams, whether you're an experienced de
 
 * **Develop with Grams**: Dive into our development repositories like [sdk](https://github.com/grams-dev/sdk) and [dapps](https://github.com/grams-dev/dapps) to start building your own decentralized applications on the Grams network.
 
-* **Contribute to Grams**: Interested in improving Grams? Check out the [GIPs](https://github.com/grams-dev/gip) (Grams Improvement Proposals) repository to propose new features and improvements.
+* **Contribute to Grams**: Interested in improving Grams? Check out the [GIPs](https://github.com/grams-dev/gip) (Grams Improvement Proposals) repository to propose new features and improvements. You can also checkout our [contributors](https://github.com/grams-dev/contributors) repository for a more seamless experience.
 
 * **Learn More**: Visit our [wiki](https://wiki.grams.dev/) for a comprehensive guide on everything Grams, from getting started to advanced development resources.
 
