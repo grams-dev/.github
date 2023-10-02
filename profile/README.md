@@ -4,7 +4,7 @@
   <img src="https://assets.grams.dev/logo/tiny.logo.png" />
 </p>
 
-Grams is a usable, interoperable, open-source platform built on decentralized technology, poised to transform the way we engage with the digital world. We are at the forefront of the Web3 revolution, providing an accessible, secure, and efficient platform for digital transactions and decentralized application (dApp) development.
+Grams is an open-source platform built on decentralized technology, poised to transform the way we engage with the digital world. We are at the forefront of the Web3 revolution, providing an accessible, secure, and efficient platform for digital transactions and decentralized application (dApp) development.
 
 ## What is Grams?
 
